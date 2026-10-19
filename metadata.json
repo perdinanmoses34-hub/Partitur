@@ -1,0 +1,6 @@
+{
+  "name": "SATB Composer Studio",
+  "description": "Aplikasi Web Profesional Pembuat Partitur Musik Empat Suara (Sopran, Alto, Tenor, Bass) Otomatis, Transposisi, Not Balok & Not Angka, Pemutaran Audio & Ekspor Partitur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
